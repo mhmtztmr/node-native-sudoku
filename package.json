@@ -1,6 +1,6 @@
 {
   "name": "node-native-sudoku",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A native Node.js module in order to solve Sudoku written in C++ using DFS Algorithm",
   "main": "index.js",
   "scripts": {
