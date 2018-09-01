@@ -4,7 +4,7 @@ This is a native Node.js module written in C++ in order to solve Sudoku puzzles 
 
 ## Install
 
-`npm -i node-native-sudoku`
+`npm i node-native-sudoku`
 
 ## Example Usage
 
